@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cynthiawangare
 - 👀 I’m interested in learning as much as i can
-- 🌱 I’m currently learning pthon
-- 💞️ I’m looking to collaborate on any android apps, python and websites
+- 🌱 I’m currently learning cloud and react
+- 💞️ I’m looking to collaborate on any of these projects
 - 📫 How to reach me. Through my email cynthiandirangu@gmail.com or profile 
 
 <!---
